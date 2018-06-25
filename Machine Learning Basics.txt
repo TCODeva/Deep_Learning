@@ -1,2 +1,3 @@
 Bayes’ theorem: How much you can trust the evidence
                 做判断的时候，要考虑所有的因素
+                一个本来就难以发生的事情，就算出现某个证据和他强烈相关，也要谨慎。证据很可能来自别的虽然不是很相关，但发生概率较高的事情。
