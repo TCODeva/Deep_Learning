@@ -1,1 +1,2 @@
 Bayes’ theorem: How much you can trust the evidence
+                做判断的时候，要考虑所有的因素
